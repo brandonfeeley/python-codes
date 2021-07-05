@@ -1,8 +1,10 @@
 # python-codes
 
+LAST UPDATED JULY 1ST
+
 Learning to use Python with several data tools linked below, for transparency, I like to post where I get my data from and any sources/inspirations. Special Thanks to the data analyst group on Discord for all feedback and tips they give me!
 
-# Where I get my data 
+## Where I get my data 
 
 WhoScored.com - Match Data 
 WyScout - Football Stats  (Paywall)
