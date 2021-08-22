@@ -1,8 +1,9 @@
 # python-codes
 
-LAST UPDATED JULY 25TH
+LAST UPDATED AUGUST 22ND
 
-Learning to use Python with several data tools linked below, for transparency, I like to post where I get my data from and any sources/inspirations. Special Thanks to the data analyst group on Discord for all feedback and tips they give me!
+Learning to use Python with several data tools linked below, for transparency, I like to post where I get my data from and any sources/inspirations. Since the football season started in early August, I have learnt a lot and made some new visuals.
+
 
 ## Where I get my data 
 
@@ -12,10 +13,10 @@ FBref - Football stats (Free)
 
 #Inspiration for Visuals
 
-https://seaborn.pydata.org/examples/index.html - Seaborn Visualiser 
-https://www.python-graph-gallery.com/ - Python Gallery Graph
-https://matplotlib.org/stable/index.html - MatPlotlib
-https://mplsoccer.readthedocs.io/en/latest/index.html - Python Football Pitch
-https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg - McKay Johns tutorial videos
-
-
+Seaborn          https://seaborn.pydata.org/examples/index.html 
+Python Gallery   https://www.python-graph-gallery.com/ 
+Matplotlib       https://matplotlib.org/stable/index.html 
+MPLSoccer        https://mplsoccer.readthedocs.io/en/latest/index.html 
+Youtube Tutorial https://www.youtube.com/channel/UCmqincDKps3syxvD4hbODSg 
+Free Data        https://dataviz.theanalyst.com/season-reviews/2021/?competition_id=11&season_id=2021
+xG Data (EFL)    https://twitter.com/xG_data
